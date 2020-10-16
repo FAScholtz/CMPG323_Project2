@@ -92,3 +92,10 @@ C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG3
 C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\Dim_Dat_Pro.dll
 C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\Dim_Dat_Pro.pdb
 C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\Dim_Dat_Pro.genruntimeconfig.cache
+C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\DimDatPro.Properties.Resources.resources
+C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\Dim_Dat_Pro.csproj.GenerateResource.cache
+C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutEmpty.cshtml.g.cs
+C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Analytics.cshtml.g.cs
+C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\Razor\Views\Home\DB_Add.cshtml.g.cs
+C:\Users\Francois Scholtz\Desktop\Practical Exercise\CMPG323 - Practical 2\CMPG323_Project2\Dim_Dat_Pro\Dim_Dat_Pro\obj\Debug\netcoreapp3.1\Razor\Views\Home\DB_Amend.cshtml.g.cs

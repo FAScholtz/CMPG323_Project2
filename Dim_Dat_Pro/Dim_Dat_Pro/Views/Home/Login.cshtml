@@ -1,0 +1,48 @@
+﻿@{
+    Layout = "/Views/Shared/LayoutEmpty.cshtml";
+}
+
+<div class="text-center">
+    <img src="/Images/DimDatProLogo.png" />
+    <h2 class="display-4" style="color: lawngreen">Welcome</h2><h3>Please enter your details to access the system</h3>
+    <section>
+        <form id="account" method="post">
+            <container>
+                    <div class="text-danger validation-summary-valid" data-valmsg-summary="true">
+                        <ul>
+                            <li style="display:none"></li>
+                        </ul>
+                    </div>
+                    <div class="form-group">
+                        <label for="Input_Password">Email</label>
+                        <input class="form-control" style="width:575px; margin-left:25%" email" data-val="true" data-val-email="The Email field is not a valid e-mail address." data-val-required="The Email field is required." id="Input_Email" name="Input.Email" value="" />
+                        <span class="text-danger field-validation-valid" data-valmsg-for="Input.Email" data-valmsg-replace="true"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="Input_Password">Password</label>
+                        <input class="form-control" style="width:575px; margin-left:25%" type="password" data-val="true" data-val-length="The Password must be at least 6 and at max 20 characters long." data-val-length-max="20" data-val-length-min="6" data-val-required="The Password field is required." id="Input_Password" maxlength="20" name="Input.Password">
+                        <span class="text-danger field-validation-valid" data-valmsg-for="Input.Password" data-valmsg-replace="true"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="checkbox">
+                            <label for="Input_RememberMe">
+                                <input type="checkbox" data-val="true" data-val-required="The Remember me? field is required." id="Input_RememberMe" name="Input.RememberMe" value="true" />
+                                Remember me?
+                            </label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <button id="login-submit" type="submit" class="btn btn-primary">Log in</button>
+                    </div>
+                    <div class="form-group">
+                        <p>
+                            <a id="forgot-password" href="/Identity/Account/ForgotPassword">Forgot your password?</a> or
+                            Click here to <a href="Identity/Account/Register">register a new user</a>.
+                        </p>
+                    </div>
+            </container>
+            <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H7gA4lEKC1JgR5QIcxHHs-5rRNnVcwtvx7UxFqlpqzXOOkOTafj2p7tNDv9ie6MI_wZIGLPWb6mEki8_QoU9vRaaGD0LM9IY2wy5RoV2fnVYnn6By7uxKmORUkz36T5eGoSa-tDTPhHs5CrY3pWoXM" /><input name="Input.RememberMe" type="hidden" value="false" />
+        </form>
+    </section>
+</div>
+    

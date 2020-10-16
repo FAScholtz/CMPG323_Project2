@@ -18,6 +18,11 @@ namespace Dim_Dat_Pro.Controllers
             _logger = logger;
         }
 
+        public IActionResult LogIn()
+        {
+            return View();
+        }
+
         public IActionResult Index()
         {
             return View();
@@ -27,6 +32,16 @@ namespace Dim_Dat_Pro.Controllers
         {
             return View();
         }
+        public IActionResult DB_Add()
+        {
+            return View();
+        }
+
+        public IActionResult Analytics()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
